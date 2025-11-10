@@ -33,7 +33,7 @@ Login/Signup Screen, Home/Dashboard Screen, Content/Product Listing Screen, and 
 
 ## Output:
 
-<img width="509" height="762" alt="image" src="https://github.com/user-attachments/assets/106783ee-ef6c-410a-bea3-5c95a1d60e01" />
+<img width="1082" height="470" alt="image" src="https://github.com/user-attachments/assets/2847f9a1-d668-4a63-8c55-3f1a31a0914f" />
 
 
 ## Result:
