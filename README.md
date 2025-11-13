@@ -7,30 +7,35 @@ Design a wireframe diagram for a generic application or website using Balsamiq, 
 Login/Signup Screen, Home/Dashboard Screen, Content/Product Listing Screen, and Checkout/Contact/Final Action Screen.
 
 ## Algorithm:
+```
+Start
 
-    Create Welcome/Splash Screen
-    Add logo at the top center
-    Add welcome message under the logo
-    Add a "Get Started" button at the bottom
-    Create Login/Signup Screen
-    Add a title ("Login" or "Sign Up")
-    Add text fields for email and password
-    Add a login or sign up button
-    Add links for "Forgot Password?" and "Switch to Sign Up/Login"
-    Create Home/Dashboard Screen
-    Add a top bar with the app name or logo
-    Add a welcome message
-    Add buttons or icons for main features (like Products, Profile, Settings)
-    Create Product/Content Listing Screen
-    Add a search bar at the to
-    Add filter options (like dropdowns or checkboxes)
-    Show a list or grid of items (each with image, title, and price)
-    Add "Add to Cart" buttons under each item
-    Create Checkout/Final Action Screen
-    Add a form with fields like name, address, and payment info
-    Show a summary of selected products
-    Add a "Place Order" or "Submit" button at the bottom
+Open Balsamiq Wireframes tool or website.
 
+    1.Create a new project and give it a suitable name (e.g., “Generic App Wireframe”).
+
+   2. Design the following screens one by one:
+
+    3.Welcome/Splash Screen – Add app logo, title, and a loading animation or “Get Started” button.
+
+    4.Login/Signup Screen – Add input fields for username/email, password, and buttons for login/signup.
+
+    5.Home/Dashboard Screen – Add navigation bar, icons, and key sections (like profile, notifications, etc.).
+
+    6.Content/Product Listing Screen – Add image placeholders, product titles, and prices or brief descriptions.
+
+    7.Checkout/Contact/Final Action Screen – Add summary details, form fields, and “Submit” or “Confirm” button.
+
+ Arrange screens sequentially to show user flow (Welcome → Login → Home → Listing → Checkout).
+
+Add navigation links or arrows between screens to represent interaction paths.
+
+Review and refine the layout for usability and clarity.
+
+Export all screens as images or PDF for submission.
+
+End
+```
 ## Output:
 
 <img width="1082" height="470" alt="image" src="https://github.com/user-attachments/assets/2847f9a1-d668-4a63-8c55-3f1a31a0914f" />
